@@ -10,7 +10,7 @@ Sou um graduando em Engenharia da Computação na Faculdade Federal de Goiás, a
 
 ## Projetos
 
-- [beat Maker]: Um drum pad, onde o usuário poderá importar sons e manipula - lós de diversas formas. Também, um editor de sons(frequência, timbre e etc.) para que o usuário possa criar seus drums na plataforma, Muito em breve esterei disponibilizando o link e vídeos do funcionamento. Mas qual seria o real motivo de criar algo assim ? Porque eu amo música e principalmente programação, então, por que não unir os dois ?
+- [beat Maker]: Um drum pad, onde o usuário poderá importar sons e manipula - lós de diversas formas. Nele também haverá um editor de sons(frequência, timbre e etc.) para que o usuário possa criar seus drums na plataforma, Muito em breve esterei disponibilizando o link e vídeos do funcionamento. Mas qual seria o real motivo de criar algo assim ? Porque eu amo música e principalmente programação, então, por que não unir os dois ?
 
   
 

@@ -12,6 +12,7 @@ Sou um graduando em Engenharia da Computação na Faculdade Federal de Goiás, a
 
 - [beat Maker]: Um drum pad, onde o usuário poderá importar sons e manipula - lós de diversas formas. Nele também haverá um editor de sons(frequência, timbre e etc.) para que o usuário possa criar seus drums na plataforma, Muito em breve esterei disponibilizando o link e vídeos do funcionamento. Mas qual seria o real motivo de criar algo assim ? Porque eu amo música e principalmente programação, então, por que não unir os dois ?
 
+-[Nutri box]: Uma ferramenta nutrucional mobile com dieta personalizada, rastreamento de alimentos, análise nutricional, lembretes e notificações, receitas saudáveis, acompanhamento e progresso, conteúdo educativo, integração com profissionais da saúde. Projeto está em desenvolvimente e em breve ficará disponível para teste.
   
 
 ## Contato

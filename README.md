@@ -17,6 +17,7 @@ Sou um graduando em Engenharia da Computação na Faculdade Federal de Goiás, a
 ## Contato
 
 - LinkedIn: ([https://www.linkedin.com/seu-perfil](https://www.linkedin.com/in/marco-willian-bailer-811977218/))
+- github principal: (https://github.com/Marco-Willian?tab=repositories)
 
 Sinta-se à vontade para entrar em contato comigo se desejar discutir colaborações, projetos interessantes ou apenas para trocar ideias sobre desenvolvimento de software. Estou sempre aberto a novas oportunidades e desafios.
 

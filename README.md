@@ -1,6 +1,6 @@
 -Acesse meu github principal para ver meus projetos : (https://github.com/Marco-Willian?tab=repositories)
 
--Este é apenas para git education!
+-Esta conta é apenas para git education! (APRENDIZADO)
 
 # Olá, eu sou [Marco]
 
